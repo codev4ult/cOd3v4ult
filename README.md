@@ -75,22 +75,37 @@
 </p>
 
 
-#### Top Repositories
+### My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codev4ult&show_icons=true&theme=radical)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codev4ult&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codev4ult&theme=github-dark-dimmed&custom_title=Codevault%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br />
-<br />
+```yaml
+name: Cody
+located_in: Parana - Brazil
+from: Parana (Brazil)
+job: Self-taught Hobbyist Fullstack Programmer (No Company)
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Technology Innovation Institute
+past experiences: 
+  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
+  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+```
